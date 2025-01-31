@@ -1,13 +1,12 @@
-# GitHub Codespaces ♥️ Flask
+# Genshin Impact Guides Website
 
-Welcome to your shiny new Codespace running Flask! We've got everything fired up and running for you to explore Flask.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+Genshin Impact Guides Website
+Этот репозиторий содержит исходный код сайта, посвящённого игре Genshin Impact. На сайте вы найдёте подробные гайды по сборке персонажей, рекомендации по артефактам, оружию и тактикам для эффективного прохождения игры.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Основные функции
+Гайды по персонажам: Подробные инструкции по сборке каждого персонажа, включая рекомендуемые артефакты, оружие и таланты.
 
-To run this application:
+Поиск и фильтрация: Удобный поиск персонажей и фильтрация по элементам, ролям и редкости.
 
-```
-flask --debug run
-```
+Актуальная информация: Регулярное обновление данных в соответствии с последними обновлениями игры.
